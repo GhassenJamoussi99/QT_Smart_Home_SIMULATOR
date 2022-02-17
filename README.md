@@ -1,4 +1,4 @@
-# SMART HOME SIMULATOR PROJECT
+# Smart home simulator project under QT
 
 <p align="center">
 <img src=https://i.ibb.co/0cp3QD3/Smart-Picture.png
