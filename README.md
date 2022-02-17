@@ -18,4 +18,4 @@
  
 ## Usage:
      Clone the project then open SoftEngineers.Pro
-     To run the tests add test as config in QT
+     To run the tests, add test as config in QT
