@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/bg2.png</file>
+        <file>imgs/main_pic.jpg</file>
+        <file>imgs/smart devices/alarm.png</file>
+        <file>imgs/smart devices/alarm_an.png</file>
+        <file>imgs/smart devices/doorbell.png</file>
+        <file>imgs/smart devices/quelle.txt</file>
+        <file>imgs/smart devices/temperatursensor.png</file>
+        <file>imgs/smart devices/toilet.png</file>
+        <file>imgs/smart devices/wasserstandssensor.png</file>
+        <file>imgs/smart devices/11_helligkeit.png</file>
+        <file>imgs/smart devices/22_helligkeit.png</file>
+        <file>imgs/smart devices/33_helligkeit.png</file>
+        <file>imgs/smart devices/00_helligkeit.png</file>
+        <file>imgs/smart devices/doorbell_an.png</file>
+        <file>imgs/smart devices/doorbell_aus.png</file>
+        <file>imgs/smart_home.jpg</file>
+        <file>imgs/main_pic_v2.jpg</file>
+        <file>imgs/smart devices/rauchmelder_an.png</file>
+        <file>imgs/smart devices/rauchmelder_aus.png</file>
+        <file>imgs/smart devices/wasserstandssensor _T.png</file>
+        <file>imgs/smart devices/wasserstandssensor _UNDER_T.png</file>
+        <file>imgs/smart devices/wasserstandssensor _OVER_2T.png</file>
+        <file>imgs/smart devices/wasserstandssensor_OVER_T_UNDER_2T.png</file>
+        <file>imgs/smart devices/fenster.png</file>
+        <file>imgs/smart devices/pir_sensor_an.png</file>
+        <file>imgs/smart devices/pir_sensor_aus.png</file>
+    </qresource>
+</RCC>
