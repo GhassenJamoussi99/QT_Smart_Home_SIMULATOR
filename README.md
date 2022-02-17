@@ -14,7 +14,7 @@
      Ghassen Jamoussi
 
 ## Academic year:
-     2021/2022 5. Semester
+     2021/2022 5th Semester
  
 ## Usage:
      Clone the project then open SoftEngineers.Pro
